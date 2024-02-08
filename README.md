@@ -100,7 +100,7 @@ Following inferences can be drawn from the dashboard;
     - Actions: Investigate the factors contributing to employee satisfaction and retention within this department to identify best practices that can be applied elsewhere. Review and enhance work life balance initiatives.
 - Research and Development: Attrition rates in the Research and Development department appear moderate, indicating potential areas for improvement in employee engagement or career development opportunities.     
     - Actions: Conduct surveys or focus groups to understand employee concerns and implement targeted interventions to enhance retention.
-Sales: The Sales department experiences higher attrition rates compared to other departments, indicating potential challenges in retention. 
+- Sales: The Sales department experiences higher attrition rates compared to other departments, indicating potential challenges in retention. 
     - Actions: Develop strategies to address factors contributing to turnover, such as workload, compensation, or job satisfaction, to improve employee retention and performance.
 
 ### [2] Gender Analysis:
