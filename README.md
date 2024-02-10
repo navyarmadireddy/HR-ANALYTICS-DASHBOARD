@@ -109,19 +109,19 @@ Following inferences can be drawn from the dashboard;
 - Women exhibit a moderate attrition rate primarily in the Sales Executive role.
     - Actions: Assess the job satisfaction, workload, and growth opportunities in Sales Executive and Laboratory Technician roles, implementing targeted interventions to enhance job satisfaction
            
-### [2] Age and Tenure Analysis:
+### [3] Age and Tenure Analysis:
 
 - Employees between the ages of 30 to 40 exhibit a peak in attrition, indicating a critical period for retention efforts. 
     - Actions: Develop career advancement opportunities, mentorship programs, and flexible work arrangements to support employees during this career stage and reduce turnover.
 - Employees with shorter tenure (e.g., less than 3 years) have higher attrition rates, suggesting challenges in employee retention during the early stages of employment. 
     - Actions: Implement onboarding programs, career development initiatives, and performance feedback mechanisms to enhance employee engagement and loyalty.
   
-### [3] Salary and Job Role Analysis:
+### [4] Salary and Job Role Analysis:
 
 - Employees with lower salary hikes or in certain job roles (e.g., lab technicians, sales executives) demonstrate higher attrition rates, indicating potential dissatisfaction with compensation or job responsibilities. 
     - Actions: Conduct salary benchmarking studies, performance evaluations, and career progression planning to ensure competitive compensation and growth opportunities for employees, thereby reducing turnover.
 
-### [4] Work-Life Balance and Job Satisfaction:
+### [5] Work-Life Balance and Job Satisfaction:
 
 - Employees with moderate work-life balance ratings and lower job satisfaction levels exhibit higher attrition rates, suggesting dissatisfaction with work conditions or organizational culture. 
     - Actions: Implement work-life balance programs, employee wellness initiatives, and regular feedback mechanisms to address workplace stressors and improve job satisfaction, fostering a positive work environment and reducing turnover.
